@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.space_is_key",
+  "startScene": "8de910a7-a193-44ac-a6d9-bda852b831ed",
+  "title": "Space_Is_Key",
+  "webOrientation": "landscape"
+}
